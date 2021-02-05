@@ -1,0 +1,29 @@
+{
+  box-sizing: border-box;
+  font-family: Verdana;
+  font-size: 25px;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.calendar {
+  width: 70rem;
+  margin: 40px auto;
+}
+
+select,
+button {
+  width: 120px;
+  height: 33px;
+  border-style: groove;
+  background-color: rgb(226, 230, 7);
+}
+
+.eventCell {
+  padding: 5px;
+  background: yellowgreen;
+  background-size: auto; 
+}

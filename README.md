@@ -1,1 +1,1 @@
-# test-task Ciklum calendar
+# test-task calendar
